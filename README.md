@@ -2,7 +2,8 @@
 
 ### **`Desenvolvedor FullStack`**  
 
-Construindo soluções completas com qualidade e escalabilidade.
+Desenvolvo aplicações modernas, responsivas e escaláveis, atuando tanto no Front-End quanto no Back-End, com foco em performance, código limpo e experiência do usuário.  
+Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas habilidades. 👨‍💻
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andersonrodriguesmelo" target="_blank">
