@@ -50,3 +50,8 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=github-dark&hide_border=true&show_streak=true"/>
 </p>
+
+## 📊 Top Linguagens
+<p align="left">
+  <img src="./top-langs.svg" alt="Top Linguagens"/>
+</p>
