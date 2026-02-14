@@ -53,5 +53,6 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 
 ## 📊 Top Linguagens
 <p align="left">
-  <img src="./top-langs.svg" alt="Top Linguagens"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=github-dark&hide_border=true" alt="Top Linguagens"/>
 </p>
+
