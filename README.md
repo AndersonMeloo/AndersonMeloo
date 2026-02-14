@@ -1,6 +1,7 @@
 ##  Olá, eu sou Anderson Melo 🤝
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`**  
+Construindo soluções completas com qualidade e escalabilidade.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andersonrodriguesmelo" target="_blank">
@@ -19,10 +20,11 @@
 ### Front-End
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
@@ -44,5 +46,5 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=github-dark&hide_border=true&show_streak=true"/>
 </p>
