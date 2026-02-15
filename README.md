@@ -44,6 +44,11 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
   <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
+<img
+  height="180"
+  src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=anaclarasantos-dev&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+/>
+
 ---
 
 ## 📊 Estatísticas do GitHub
