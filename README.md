@@ -44,12 +44,18 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
   <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
+---
+
 <img
   height="180"
   src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=AndersonMeloo&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
 />
 
 ---
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 ## 📊 Estatísticas do GitHub
 <p align="left">
