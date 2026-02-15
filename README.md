@@ -49,11 +49,6 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
   src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=AndersonMeloo&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
 />
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonMeloo&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
-/>
-
 ---
 
 ## 📊 Estatísticas do GitHub
