@@ -46,10 +46,6 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 
 ---
 
-![Pontifice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=onedark)
-
----
-
 <p align="left">
   <img
     height="180"
