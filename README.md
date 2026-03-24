@@ -57,5 +57,37 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
   />
 </p>
 
+--
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=tokyonight&langs_count=9"
+/>
+
+--
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"
+/>
+
+--
+ <img 
+  src="https://streak-stats.demolab.com?user=AndersonMeloo&theme=tokyonight"
+/>
+
+--
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=AndersonMeloo&theme=tokyonight&row=1"
+/>
+
+-- 
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonMeloo&theme=tokyo-night"
+/>
+
+--
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=tokyonight"/>
+</div>
 
