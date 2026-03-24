@@ -7,7 +7,7 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andersonrodriguesmelo" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"/>
   </a>
   
@@ -57,18 +57,4 @@ Estou sempre explorando novas ferramentas e tecnologias para aprimorar minhas ha
 />
 </p>
 
---
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMeloo&layout=compact&theme=tokyonight&langs_count=9"
-/>
-
---
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=AndersonMeloo&show_icons=true&theme=tokyonight"
-/>
-
-
-</div>
 
